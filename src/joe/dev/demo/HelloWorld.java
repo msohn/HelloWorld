@@ -19,7 +19,7 @@ public class HelloWorld {
      * @param args
      */
     public static void main(String[] args) {
-    	// say hello
+    	// say hello git world
     	System.out.println("Hello Git world !");
     }
 
