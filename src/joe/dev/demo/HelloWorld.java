@@ -19,9 +19,11 @@ public class HelloWorld {
      * @param args
      */
     public static void main(String[] args) {
-    	// some comment
     	System.out.println("Hello Git world !");
     }
+<<<<<<< Upstream, based on origin/master
 
 >>>>>>> 9b51170 Implemented hello
+=======
+>>>>>>> 4b5f27d Remove silly comment
 }
