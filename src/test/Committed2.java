@@ -1,4 +1,4 @@
-package hello;
+package test;
 // added on test branch
 public class Committed2 {
 	/**
