@@ -1,6 +1,6 @@
 package hello;
 // added on test branch
-public class Committed {
+public class Committed2 {
 	/**
 	 * test changing on master branch
 	 */
