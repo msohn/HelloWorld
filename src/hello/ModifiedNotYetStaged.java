@@ -1,6 +1,6 @@
 package hello;
 
-//change again
+//change again and
 public class ModifiedNotYetStaged {
 
 }
