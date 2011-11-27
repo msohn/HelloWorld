@@ -1,6 +1,6 @@
 package hello;
 
-// change
-public class Staged {
+// change1
+public class Staged {//2
 
 }
