@@ -1,6 +1,6 @@
 package hello;
 
-// simple comment4
+// simple comment5
 public class ModifiedNotYetStaged {
 
 }
