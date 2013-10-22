@@ -1,4 +1,0 @@
-<<<<<<< Upstream, based on origin/master
-trying to impersonate Tobias
-=======
->>>>>>> d29f575 add a few files
