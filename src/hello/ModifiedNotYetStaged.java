@@ -121,7 +121,7 @@ import org.eclipse.ui.part.IShowInSource;
 import org.eclipse.ui.part.ShowInContext;
 import org.eclipse.ui.progress.IWorkbenchSiteProgressService;
 
-/** Graphical commit history viewer. */
+/** Graphical commit history viewer. dass*/
 public class GitHistoryPage extends HistoryPage implements RefsChangedListener,
 		ISchedulingRule, TableLoader, IShowInSource {
 
