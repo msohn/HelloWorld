@@ -1,2 +1,1 @@
-a.txt sample content long message v
-modifiedm
+a.txt sample content long message
