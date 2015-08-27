@@ -1,6 +1,6 @@
 package test;
 // added on test branch which doesn't compile
-public class Committed2 {
+public class Committed2x {
 	/**
 	 * test changing on master branch 2
 	 */
