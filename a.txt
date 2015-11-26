@@ -1,1 +1,1 @@
-a.txt sample content long message
+new content
